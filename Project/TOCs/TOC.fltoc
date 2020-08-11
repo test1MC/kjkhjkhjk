@@ -42,4 +42,7 @@
   <TocEntry
     Title="[%=System.LinkedTitle%]"
     Link="/Content/A-Introduction-Topics/D-Reference/Company.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Merging list10.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
 </CatapultToc>
