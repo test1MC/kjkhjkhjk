@@ -45,4 +45,10 @@
   <TocEntry
     Title="[%=System.LinkedTitle%]"
     Link="/Content/Merging list10.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Excitement with additional.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/Heading one.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
 </CatapultToc>
